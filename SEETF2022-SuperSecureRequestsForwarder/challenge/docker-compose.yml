@@ -5,4 +5,4 @@ services:
     ports:
       - 80:80
     environment:
-      - FLAG=SEE{REDACTED}
+      - FLAG=SEE{y0u_m34n_7h3_53rv3_r35p0n53_c4n_c4n63?_369e7e3531c987fa4a4c9cfd4f97f2f6}
